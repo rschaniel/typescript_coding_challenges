@@ -1,0 +1,16 @@
+pids
+logs
+results
+tmp
+
+node_modules
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+dist/**/*
